@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding:0;
+    color: rgb(0, 0, 0);
+
+}
+body{
+    background: url(1.jpg);
+    background-size: 100%;
+  
+    background-repeat: no-repeat;
+ 
+}
+.main{
+    width: 400px;
+    margin:100px auto 0px auto;
+   
+}
+
+h2{
+    text-align: center;
+    color: rgb(232, 51, 51);
+    font-family: sans-serif;
+}
+.register{
+    background-color: rgba(100, 19, 19, 0.5)   ;
+    width:120%;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#register{
+    margin: 40px;
+    position: center;
+}   
+#submit{
+    width: 150px;
+    font-size: 18px;
+    border-radius: 10px ;
+}
+label{
+color: azure;
+}
